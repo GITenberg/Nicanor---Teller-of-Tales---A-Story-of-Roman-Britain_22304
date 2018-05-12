@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '25251'
     url: http://www.gutenberg.org/2009/agents/25251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22304#Nicanor---Teller-of-Tales---A-Story-of-Roman-Britain
 gutenberg_issued: '2007-08-13'
 gutenberg_type: Text
 identifiers:
